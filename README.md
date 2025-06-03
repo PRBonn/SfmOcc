@@ -46,10 +46,17 @@ Many thanks to the authors of [RenderOcc](https://github.com/pmj110119/RenderOcc
 
 ```bibtex
 @article{marcuzzi2025ral,
-  title={},
-  author={},
-  journal={},
-  year={2025}
+author = {R. Marcuzzi and L. Nunes and E.A. Marks and L. Wiesmann and T. L\"abe and J. Behley and C. Stachniss},
+title = {{SfmOcc: Vision-Based 3D Semantic Occupancy Prediction in Urban
+Environments}},
+journal = ral,
+year = {2025},
+volume = {10},
+number = {5},
+pages = {5074-5081},
+issn = {2377-3766},
+doi = {10.1109/LRA.2025.3557227},
+url = {https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/marcuzzi2025ral.pdf},
 }
 ```
 
