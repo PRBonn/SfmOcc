@@ -1,0 +1,17 @@
+open3d
+lyft_dataset_sdk
+networkx==2.2
+numba==0.53.0
+numpy==1.23.5
+trimesh
+nuscenes-devkit
+opencv_python==4.10.0.84
+plyfile
+Pillow==11.1.0
+pyquaternion==0.9.9
+scikit-image
+scikit_learn==1.6.1
+tensorboard
+torch_scatter
+torch_efficient_distloss
+trimesh==4.4.7
