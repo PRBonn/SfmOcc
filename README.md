@@ -1,6 +1,6 @@
 # SfmOcc: Vision-Based 3D Semantic Occupancy Prediction in Urban Environments
 
-This repository contains the implementation of our [paper](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/marcuzzi2023ral.pdf).
+This repository contains the implementation of our [paper](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/marcuzzi2025ral.pdf).
 
 ## Getting Started
 
